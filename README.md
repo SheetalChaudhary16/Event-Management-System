@@ -1,2 +1,2 @@
 # Event-Management-System
-This is an Event Management System project focused on creating a comprehensive platform for efficient event organization and management.
+The project brings the entire manual process of event organization and management online which is built using HTML and CSS to create visually appealing layouts and JavaScript to enhance user interactivity and responsiveness.         
